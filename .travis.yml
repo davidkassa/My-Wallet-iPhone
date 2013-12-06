@@ -1,5 +1,6 @@
 language: objective-c
 xcode_project: Blockchain.xcodeproj
+xcode_scheme: Blockchain
 env:
   global:
   - secure: GIi18BseCX0qqw4GZAp+3/sl2B/125gXkFdAmo17wBXrjT2faRsWeirYf/Uwcff+lV9Tw0AfnditDrKhBB83CrdL5TJNJdmzEEn330vT3bqiZpty0ASB9mXfLb7/5RZxqDwGdf/QWa/+BywMU0AqP3yUdlGmwLm9F48elhoALaw=
